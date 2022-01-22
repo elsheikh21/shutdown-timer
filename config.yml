@@ -1,0 +1,5 @@
+- App_Configuration:
+    Title: Shutdown timer
+    window_width: 450
+    window_height: 250
+    logo_path: image.ico
